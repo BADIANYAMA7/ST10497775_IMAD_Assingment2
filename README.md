@@ -20,6 +20,11 @@ Answer questions, and earn points as you showcase your expertise. Can you rise t
 12.Reapeat From Step 5 
 
 ## User Interface
+![Screenshot 2025-05-18 104939](https://github.com/user-attachments/assets/1273b038-c510-4f12-a8d3-978b55f55378)
+![Screenshot 2025-05-18 105023](https://github.com/user-attachments/assets/8ad7a437-fbe2-44b6-8a81-6b66f7274990)
+![Screenshot 2025-05-18 105110](https://github.com/user-attachments/assets/c4160da0-3f5e-42b8-a967-7f1af63ef7b0)
+![Screenshot 2025-05-18 105152](https://github.com/user-attachments/assets/66148e2e-b6e2-4b28-9608-cebcfa3fd94e)
+
 # Features
 ✅ Three Exciting Categories: Test your knowledge in Football, History, and IT, offering a wide variety of questions for all interests.
 
