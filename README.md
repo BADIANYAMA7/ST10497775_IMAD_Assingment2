@@ -16,8 +16,7 @@ Answer questions, and earn points as you showcase your expertise. Can you rise t
 8.Click Start
 9.Answer Between True Or False 
 10.Once Your Done Go Back to the Main Menu
-11.Choose Another category
-12.Reapeat From Step 5 
+11.Reapeat From Step 5 
 
 ## User Interface
 ![Screenshot 2025-05-18 104939](https://github.com/user-attachments/assets/1273b038-c510-4f12-a8d3-978b55f55378)
