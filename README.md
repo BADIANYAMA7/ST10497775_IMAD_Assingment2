@@ -51,6 +51,7 @@ Yes. After completing the quiz, you will see your answers alongside the correct 
 Flashmaster provides a personalized message based on your final score, letting you know if you did well or if you could improve.
 
 ❓ Are the questions timed?
+
 Flashmaster doesn't include timed gameplay
 
 ❓ Can I choose which category to play?
